@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/tsawler/vigilate/internal/helpers"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/helpers"
 	"net/http"
 )
 

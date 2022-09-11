@@ -5,4 +5,5 @@ run.sh
 run.bat
 vigilate
 .DS_Store
+*.exe
 *.code-workspace

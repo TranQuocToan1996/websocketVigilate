@@ -3,18 +3,19 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/alexedwards/scs/postgresstore"
-	"github.com/alexedwards/scs/v2"
-	"github.com/pusher/pusher-http-go"
-	"github.com/tsawler/vigilate/internal/channeldata"
-	"github.com/tsawler/vigilate/internal/config"
-	"github.com/tsawler/vigilate/internal/driver"
-	"github.com/tsawler/vigilate/internal/handlers"
-	"github.com/tsawler/vigilate/internal/helpers"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	"github.com/TranQuocToan1996/websocketVigilate/internal/channeldata"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/config"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/driver"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/handlers"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/helpers"
+	"github.com/alexedwards/scs/postgresstore"
+	"github.com/alexedwards/scs/v2"
+	"github.com/pusher/pusher-http-go"
 )
 
 func setupApp() (*string, error) {

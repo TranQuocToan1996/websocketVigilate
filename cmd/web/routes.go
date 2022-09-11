@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/go-chi/chi"
-	"github.com/tsawler/vigilate/internal/handlers"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/handlers"
 	"net/http"
 )
 

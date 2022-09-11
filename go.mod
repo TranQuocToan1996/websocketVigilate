@@ -13,7 +13,6 @@ require (
 	github.com/justinas/nosurf v1.1.1
 	github.com/pusher/pusher-http-go v4.0.1+incompatible
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/tsawler/vigilate v0.0.0-20210619144211-57a1ebc5f373
 	github.com/xhit/go-simple-mail/v2 v2.11.0
 	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
 	jaytaylor.com/html2text v0.0.0-20211105163654-bc68cce691ba
@@ -23,7 +22,6 @@ require (
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 // indirect
 	github.com/PuerkitoBio/goquery v1.6.1 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
-	github.com/go-chi/chi/v5 v5.0.0 // indirect
 	github.com/go-test/deep v1.0.8 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect

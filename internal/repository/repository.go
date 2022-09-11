@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/tsawler/vigilate/internal/models"
+import "github.com/TranQuocToan1996/websocketVigilate/internal/models"
 
 // DatabaseRepo is the database repository
 type DatabaseRepo interface {

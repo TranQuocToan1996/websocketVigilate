@@ -2,8 +2,8 @@ package dbrepo
 
 import (
 	"database/sql"
-	"github.com/tsawler/vigilate/internal/config"
-	"github.com/tsawler/vigilate/internal/repository"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/config"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/repository"
 )
 
 var app *config.AppConfig

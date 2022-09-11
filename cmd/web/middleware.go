@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/justinas/nosurf"
-	"github.com/tsawler/vigilate/internal/helpers"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/helpers"
 	"net/http"
 	"strconv"
 	"strings"

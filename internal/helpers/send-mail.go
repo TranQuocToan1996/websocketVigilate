@@ -1,6 +1,6 @@
 package helpers
 
-import "github.com/tsawler/vigilate/internal/channeldata"
+import "github.com/TranQuocToan1996/websocketVigilate/internal/channeldata"
 
 // SendEmail sends an email
 func SendEmail(mailMessage channeldata.MailData) {

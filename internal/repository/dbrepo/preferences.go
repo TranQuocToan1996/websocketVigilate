@@ -2,7 +2,7 @@ package dbrepo
 
 import (
 	"context"
-	"github.com/tsawler/vigilate/internal/models"
+	"github.com/TranQuocToan1996/websocketVigilate/internal/models"
 	"log"
 	"time"
 )
